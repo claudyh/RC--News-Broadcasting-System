@@ -1,5 +1,0 @@
-eufrasio;123;leitor
-claudia;1234;administrador
-jorge;mtu67453;administrator
-manuel;zpt567;leitor
-joana;a;jornalista
