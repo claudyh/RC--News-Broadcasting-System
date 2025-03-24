@@ -58,4 +58,4 @@ The communication network is structured as follows:
 
 ---
 
-**NOTE:** The project development has been completed, with all functionalities implemented and proper network operation ensured, including NAT and multicast. However, some areas may still contain bugs. This project was developed within the scope of a Computer Science course by Cláudia Torres and Guilherme Eufrásio.
+**NOTE:** The project development has been completed, with all functionalities implemented and proper network operation ensured, including NAT and multicast. However, some areas may still contain bugs. This project was developed within the scope of a Computer Science course by Cláudia Torres and Guilherme Rodrigues.
